@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(kill 73627)",
+      "Bash(ipconfig getifaddr:*)",
+      "WebFetch(domain:www.atlasobscura.com)",
+      "WebFetch(domain:unearththevoyage.com)",
+      "WebFetch(domain:thetravelingdrifter.com)",
+      "WebFetch(domain:savannahfirsttimer.com)",
+      "WebSearch"
+    ]
+  }
+}
