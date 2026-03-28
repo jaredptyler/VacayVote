@@ -64,7 +64,7 @@ export const ITINERARY_ITEMS = [
     id: "chs-fort-sumter",
     city: "charleston",
     group: "activities",
-    title: "Fort Sumter Boat Tour",
+    title: "Fort Sumter",
     location: "Charleston Harbor, Charleston, SC",
     category: "History & Adventure",
     priceLevel: "$$$",
